@@ -1,0 +1,12 @@
+/target
+target/
+<<<<<<< HEAD
+.project
+.classpath
+/.settings 
+=======
+.classpath
+.project
+/.settings
+.settings/
+>>>>>>> refs/heads/release/1.0
