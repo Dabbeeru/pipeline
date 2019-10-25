@@ -5,7 +5,7 @@
                 steps {
                     git branch: 'master',
                         
-                    url: 'https://github.com/Dabbeeru/CoreProject.git'
+                    url: 'https://github.com/Dabbeeru/pipeline.git'
         
                     sh "ls -lat"
                 }
